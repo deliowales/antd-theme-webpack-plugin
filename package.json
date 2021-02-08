@@ -14,13 +14,9 @@
   "peerDependencies": {
     "webpack": "^4.0.0 || ^5.0.0"
   },
-  "author": {
-    "name": "mzohaibqc",
-    "url": "https://github.com/mzohaibqc"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mzohaibqc/antd-theme-webpack-plugin"
+    "url": "https://github.com/deliowales/antd-theme-webpack-plugin"
   },
   "keywords": [
     "antd",
